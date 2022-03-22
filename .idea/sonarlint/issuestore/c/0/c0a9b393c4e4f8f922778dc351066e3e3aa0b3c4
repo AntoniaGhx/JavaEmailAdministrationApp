@@ -1,0 +1,12 @@
+
+Q	java:S125"<This block of commented-out lines of code should be removed.(¢ïÁˆ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(—ß’×
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(ªÎ³Ïüÿÿÿÿ
+W
+java:S11172"<Rename "password" which hides the field declared at line 12.(À†Ø½ıÿÿÿÿ
+?
+java:S21404")Use "java.util.Random.nextInt()" instead.(Â““í
+H
+java:S1128"-Remove this unused import 'java.util.Locale'.(åğ×±ûÿÿÿÿ
+/
+java:S1700"Rename field "email"(ª«Õìùÿÿÿÿ
